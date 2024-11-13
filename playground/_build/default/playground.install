@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/playground/META"
-  "_build/install/default/lib/playground/dune-package"
-  "_build/install/default/lib/playground/opam"
-]
-bin: [
-  "_build/install/default/bin/playground"
-]
