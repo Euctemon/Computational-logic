@@ -1,0 +1,4 @@
+(executable
+ (public_name queens)
+ (name main)
+ (libraries queens minisat))

@@ -1,0 +1,4 @@
+(executable
+ (public_name psw_hash)
+ (name main)
+ (libraries psw_hash z3))

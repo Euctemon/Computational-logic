@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/psw_hash/META"
+  "_build/install/default/lib/psw_hash/dune-package"
+  "_build/install/default/lib/psw_hash/opam"
+]
+bin: [
+  "_build/install/default/bin/psw_hash"
+]
