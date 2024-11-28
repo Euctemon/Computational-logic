@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/latinsquare/META"
-  "_build/install/default/lib/latinsquare/dune-package"
-  "_build/install/default/lib/latinsquare/opam"
-]
-bin: [
-  "_build/install/default/bin/latinsquare"
-]

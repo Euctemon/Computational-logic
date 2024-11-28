@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/queens/META"
-  "_build/install/default/lib/queens/dune-package"
-  "_build/install/default/lib/queens/opam"
-]
-bin: [
-  "_build/install/default/bin/queens"
-]
