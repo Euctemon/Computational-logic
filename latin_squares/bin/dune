@@ -1,0 +1,4 @@
+(executable
+ (public_name latin_squares)
+ (name main)
+ (libraries latin_squares minisat))

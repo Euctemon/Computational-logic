@@ -1,6 +1,6 @@
 (lang dune 3.16)
 
-(name latinsquare)
+(name latin_squares)
 
 (generate_opam_files true)
 
@@ -16,7 +16,7 @@
 (documentation https://url/to/documentation)
 
 (package
- (name latinsquare)
+ (name latin_squares)
  (synopsis "A short synopsis")
  (description "A longer description")
  (depends ocaml dune)

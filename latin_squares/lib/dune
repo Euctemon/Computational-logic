@@ -1,0 +1,2 @@
+(library
+ (name latin_squares))
